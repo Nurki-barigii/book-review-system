@@ -1,0 +1,7 @@
+[2025-11-27 23:22:45] Phone fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+[2025-11-27 23:22:45] Ads error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'book_review_system.ads' doesn't exist
+[2025-11-27 23:23:07] Phone fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+[2025-11-27 23:23:07] Ads error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'book_review_system.ads' doesn't exist
+[2025-11-27 23:28:27] Phone fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+[2025-11-27 23:28:30] Phone fetch error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+[2025-11-28 01:28:30] FAILED: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'book_review_system.payments' doesn't exist

@@ -1,0 +1,5 @@
+2025-11-27 07:46:06: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list'
+2025-11-27 07:46:13: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list'
+2025-11-27 07:52:05: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list'
+2025-11-27 07:52:14: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list'
+2025-11-27 07:58:56: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone_number' in 'field list'
