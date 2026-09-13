@@ -1,0 +1,25 @@
+# Composer dependencies
+/vendor/
+
+# Database credentials
+/config/db.php
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Uploaded files - do not upload user content
+/uploads/
+
+# IDE files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db

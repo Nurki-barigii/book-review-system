@@ -1,0 +1,26 @@
+# Dependencies
+/vendor/
+
+# Environment and configuration files
+.env
+.env.*
+
+# Database credentials
+/config/db.php
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+
+# Uploaded user files
+/uploads/*
+!/uploads/.gitkeep
